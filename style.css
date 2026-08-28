@@ -1,0 +1,31 @@
+body {
+  font-family: Arial;
+  background: #fff8e1;
+  margin: 0;
+}
+nav {
+  background: #f57f17;
+  color: white;
+  padding: 15px;
+  font-size: 20px;
+}
+.hero {
+  text-align: center;
+  padding: 50px;
+}
+img {
+  width: 200px;
+}
+h1 {
+  color: #e65100;
+}
+button {
+  padding: 12px 25px;
+  background: #d84315;
+  color: white;
+  border: none;
+  border-radius: 30px;
+}
+button:hover {
+  background: #bf360c;
+}
